@@ -1,4 +1,4 @@
-module github.com/api/transactions/lib
+module github.com/Sholontla/configuration-lib
 
 go 1.18
 
